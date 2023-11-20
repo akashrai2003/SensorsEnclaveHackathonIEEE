@@ -1,0 +1,6 @@
+../Core/Src/LTR_329ALS.c:23:6:LTR_329ALS_Init	24	static
+../Core/Src/LTR_329ALS.c:38:9:Get_Gain	24	static
+../Core/Src/LTR_329ALS.c:63:7:Get_Int_Factor	32	static
+../Core/Src/LTR_329ALS.c:90:10:Get_Raw_CH_1_Data	24	static
+../Core/Src/LTR_329ALS.c:106:10:Get_Raw_CH_0_Data	24	static
+../Core/Src/LTR_329ALS.c:126:7:Get_Calibrated_Lux_Value	32	static

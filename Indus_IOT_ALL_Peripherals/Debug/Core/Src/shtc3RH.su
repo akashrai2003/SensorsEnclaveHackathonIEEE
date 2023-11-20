@@ -1,0 +1,9 @@
+../Core/Src/shtc3RH.c:30:6:GetSlaveAcknowledgment	40	static
+../Core/Src/shtc3RH.c:50:6:GetDeviceIDSht21	48	static
+../Core/Src/shtc3RH.c:66:6:GetTempratureSht21	40	static
+../Core/Src/shtc3RH.c:83:6:GetHumidyShtc3	40	static
+../Core/Src/shtc3RH.c:95:10:Read_Device_Id	24	static
+../Core/Src/shtc3RH.c:110:10:Read_Temprature	24	static
+../Core/Src/shtc3RH.c:125:10:Read_Humidity	24	static
+../Core/Src/shtc3RH.c:139:9:Device_check	16	static
+../Core/Src/shtc3RH.c:156:1:Delay	16	static

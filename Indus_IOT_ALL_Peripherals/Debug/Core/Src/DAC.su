@@ -1,0 +1,3 @@
+../Core/Src/DAC.c:16:6:Start_Channel	8	static
+../Core/Src/DAC.c:26:6:DAC_Output_CH_2	16	static
+../Core/Src/DAC.c:45:6:DAC_Output_CH_1	16	static

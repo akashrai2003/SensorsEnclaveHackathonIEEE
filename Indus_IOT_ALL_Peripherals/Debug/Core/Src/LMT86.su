@@ -1,0 +1,2 @@
+../Core/Src/LMT86.c:20:10:Get_ADC_Value	16	static
+../Core/Src/LMT86.c:33:9:Get_Temprature_data	24	static

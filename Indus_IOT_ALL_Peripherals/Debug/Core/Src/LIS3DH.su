@@ -1,0 +1,13 @@
+../Core/Src/LIS3DH.c:45:9:Read_WHO_AM_I_Reg	32	static
+../Core/Src/LIS3DH.c:58:6:WriteIO	32	static
+../Core/Src/LIS3DH.c:73:6:ReadIO	32	static
+../Core/Src/LIS3DH.c:94:6:Init	40	static
+../Core/Src/LIS3DH.c:157:9:GetDataRaw	32	static
+../Core/Src/LIS3DH.c:181:12:GetDataScaled	56	static
+../Core/Src/LIS3DH.c:198:6:PollDRDY	24	static
+../Core/Src/LIS3DH.c:223:6:X_calibrate	16	static
+../Core/Src/LIS3DH.c:234:6:Y_calibrate	16	static
+../Core/Src/LIS3DH.c:245:6:Z_calibrate	16	static
+../Core/Src/LIS3DH.c:256:9:Rolling	48	static
+../Core/Src/LIS3DH.c:273:9:Pitching	48	static
+../Core/Src/LIS3DH.c:290:9:steps_fw_bw	8	static

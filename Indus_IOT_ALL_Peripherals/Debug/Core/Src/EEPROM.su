@@ -1,0 +1,8 @@
+../Core/Src/EEPROM.c:21:13:Init_EEPROM	16	static
+../Core/Src/EEPROM.c:34:13:WritePage	24	static
+../Core/Src/EEPROM.c:80:9:ReadPage	24	static
+../Core/Src/EEPROM.c:111:6:WriteEnable	16	static
+../Core/Src/EEPROM.c:124:6:WriteDisable	16	static
+../Core/Src/EEPROM.c:136:9:EEPROM_SPI_WaitStandbyState	16	static
+../Core/Src/EEPROM.c:162:6:EEPROM_SendInstruction	16	static
+../Core/Src/EEPROM.c:179:7:delay	16	static
